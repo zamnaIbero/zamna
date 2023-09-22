@@ -1,1 +1,16 @@
+Links a los datasets utilizados, en Kaggle: https://www.kaggle.com
+
+CLASIFICACIÓN:
+
+X-ray Lung Diseases Images (9 classes): https://www.kaggle.com/datasets/fernando2rad/x-ray-lung-diseases-images-9-classes
+Ocular Disease Recognition: https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
+
+SEGMENTACIÓN:
+
+Chest Xray Masks and Labels: https://www.kaggle.com/datasets/nikhilpandey360/chest-xray-masks-and-labels
+Chest CT Segmentation: https://www.kaggle.com/datasets/polomarco/chest-ct-segmentation
+Glaucoma Fundus Imaging Datasets: https://www.kaggle.com/datasets/arnavjain1/glaucoma-datasets
+
+IDENTIFICACIÓN EN DRIVE.
+
 

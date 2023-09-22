@@ -1,6 +1,12 @@
 # Uso del sistema
 
-TODOS LOS ARCHIVOS de esta carpeta deberán estar juntos, este es un proyecto modular. Ejecutar el archivo zamna.py dará inicio a todo el sistema.
+TODOS LOS ARCHIVOS de esta carpeta deberán estar juntos, este es un proyecto modular. Ejecutar el archivo zamna.py dará inicio a todo el sistema. 
+
+#### Paso 0:
+
+Descargar e instalar cada una de las dependencias (paquetes) utilizadas en el sistema, se recomienda el uso de pip, verificar que la PC (Raspberry, Jetson, ...) en la que se ejecutará el Zamná cuente con al menos una cámara. Dicha cámara será accesada vía OpenCV.
+
+Si el sistema no se ejecuta correctamente, verificar: la ubicación de los archivos, de los modelos y/o los drivers de las cámaras que se planean utilizar.
 
 #### Paso 1:
 
